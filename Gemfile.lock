@@ -39,7 +39,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     ansi (1.5.0)
     arel (6.0.4)
-    asciidoctor (1.5.6.1)
+    asciidoctor (1.5.8)
     awesome_print (1.8.0)
     better_errors (2.4.0)
       coderay (>= 1.0.0)
